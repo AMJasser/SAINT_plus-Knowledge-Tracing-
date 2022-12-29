@@ -140,3 +140,5 @@ cython_debug/
 #data files
 *.csv
 .vscode/
+
+.DS_Store
